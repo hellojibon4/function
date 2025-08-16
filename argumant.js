@@ -9,3 +9,9 @@ console.log("Calling doubleIt function with 1470");
 doubleIt(1470);
 console.log("Calling doubleIt function with 1455");
 doubleIt(1455);
+
+const number = 98;
+doubleIt(number);
+const monay = 34;
+doubleIt(monay);
+
