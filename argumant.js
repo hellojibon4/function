@@ -15,3 +15,11 @@ doubleIt(number);
 const monay = 34;
 doubleIt(monay);
 
+function difference ( num1, num2){
+    const deff  = num1 - num2;
+    console.log("The difference of the given numbers is : ", deff);
+}
+
+const fatherAge = 50;
+const myAge = 20;
+difference(fatherAge, myAge);
